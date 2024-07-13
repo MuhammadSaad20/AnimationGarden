@@ -4,6 +4,14 @@
       {
         "src": "index.html",
         "use": "@vercel/static"
+      },
+      {
+        "src": "styles/style.css",
+        "use": "@vercel/static"
+      },
+      {
+        "src": "scripts/script.js",
+        "use": "@vercel/static"
       }
     ],
     "routes": [
